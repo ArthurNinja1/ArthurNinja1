@@ -1,5 +1,4 @@
-[[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nerd&weight=450&size=25&pause=1000&color=6A22F7&repeat=false&width=600&lines=Ol%C3%A1%2C+mundo...+meu+nome+%C3%A9+Arthur+Andriolli%3A%29)](https://git.io/typing-svg)](https://readme-typing-svg.herokuapp.com/demo/?font=Nerd&weight=450&size=25&color=6A22F7&repeat=false&width=650&lines=Ol%C3%A1%2C+mundo...+meu+nome+%C3%A9+Arthur+Andriolli!+%3A%29)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nerd&weight=450&size=25&pause=1000&color=6A22F7&repeat=false&width=650&lines=Ol%C3%A1%2C+mundo...+meu+nome+%C3%A9+Arthur+Andriolli!+%3A%29)](https://git.io/typing-svg)
 
 
 <img src="https://skillicons.dev/icons?i=c,py,js,html,css,git,gitlab,arch" height="25"/>
