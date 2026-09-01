@@ -1,1 +1,1 @@
-<img src="https://skillicons.dev/icons?i=c,py,js,html,css,sqlite,git,windows,arch" height="25"/>
+<img src="https://skillicons.dev/icons?i=c,py,js,html,css,git,gitlab,arch" height="25"/>
