@@ -9,6 +9,7 @@ Desenvolvo soluções no **Full Stack** (Front-end e Back-end), com uma paixão 
 - 🛠️ Trabalhando com a linguagem **C** e aprofundando estudos em **Assembly**.
 
 ⚙️ Áreas de Interesse & Tecnologias:
+
 <img src="https://skillicons.dev/icons?i=c,py,js,html,css,git,gitlab,arch" height="25"/>
 
 
