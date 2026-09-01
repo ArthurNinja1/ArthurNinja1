@@ -12,4 +12,8 @@ Desenvolvo soluções para **Front-end e Back-end** com um interesse especial e 
 
 //    <img src="https://skillicons.dev/icons?i=c,py,js,html,css,git,gitlab,arch" height="25"/>
 
-
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArthurNinja1/ArthurNinja1/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArthurNinja1/ArthurNinja1/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ArthurNinja1/ArthurNinja1/output/github-contribution-grid-snake.svg">
+</picture>
