@@ -11,6 +11,7 @@ Desenvolvo soluções para **Front-end e Back-end** com um interesse especial e 
 ⚙️ Áreas de Interesse & Tecnologias:
 
 //
+
 //    <img src="https://skillicons.dev/icons?i=c,py,js,html,css,git,gitlab,arch" height="25"/>
 
 
